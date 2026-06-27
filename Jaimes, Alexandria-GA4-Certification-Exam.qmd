@@ -1,0 +1,55 @@
+---
+title: "GA4 Certification Exam"
+author: "Alexandria Jaimes"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: source
+execute:
+  freeze: auto
+---
+
+# Overview
+
+This document is for the GA4 Certification Exam assignment with proof of completion. I completed the Google Analytics Certification exam and used this report to show my completion proof, reflect on the exam, and to connect what I learned.
+
+# Proof of Completion
+
+This screenshot shows that I successfully completed the Google Analytics Certification exam.
+
+![Google Analytics Certification proof](certification_proof.png)
+
+# Exam Reflection
+
+## Results summary
+
+I passed the Google Analytics Certification exam and earned the Google Analytics Certification (2026). My certificate was issued on June 27, 2026 and expires on June 27, 2027. I received 100% on the final score.
+
+## Top 3 topics that were most challenging
+
+For me the top 3 topics during the course were,
+
+- Conversions/key events
+- BigQuery
+- UTM tracking
+
+## Two question areas I wish I could redo
+
+The two question areas I’d want to redo are Google Ads linking and UTM tracking. I understand the basic idea, but I still get confused with how all the tools connect and how campaign tracking shows up in GA4. These topics made me slow down more because I had to think through what each tool was actually doing. And also had to remember what I had already learned prior while taking in new information.
+
+## CEP connection
+
+For my CEP, I’d focus more on purchases and website visits. Since my project connects to marketing performance, I’d want to use GA4 to see not just how many people visit the website, but also whether those visits turn into purchases. One thing I’d change in my measurement plan is making sure I track both traffic sources and purchase related actions, so I can see which channels are actually helping with the results.
+
+# GA4 Readiness Check
+
+For the readiness check, I used the Google Demo account. The KPI I chose is website visits/sessions, and the supporting report is the Traffic acquisition report.
+
+![GA4 readiness check screenshot](readiness_check.png)
+
+This report supports my project goal because it shows where website visitors are coming from. Since I care about increasing purchases, I first need to understand which channels bring people initially to the website. This can help decide where more marketing effort should go.
